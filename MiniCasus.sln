@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniCasus", "MiniCasus\MiniCasus.csproj", "{6283712E-7677-4D40-95CD-EA6C003944CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6283712E-7677-4D40-95CD-EA6C003944CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6283712E-7677-4D40-95CD-EA6C003944CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6283712E-7677-4D40-95CD-EA6C003944CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6283712E-7677-4D40-95CD-EA6C003944CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
